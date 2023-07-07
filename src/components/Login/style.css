@@ -1,0 +1,13 @@
+.login{
+    padding:50px;
+    
+}
+.logincontainer{
+    height:250px;
+    width:300px;
+    color:#894d4d;
+    border:2px solid #894d4d;
+    padding:12px;
+    border-radius: 16px;
+    background-color: burlywood;
+}
